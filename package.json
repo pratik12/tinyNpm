@@ -1,9 +1,9 @@
 {
     "name": "@pbidkar/tiny",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Removes all spaces from a string",
     "license": "MIT",
-    "repository": "pbidkar/tiny",
+    "repository": "pratik12/tinyNpm",
     "main": "index.js",
     "keywords": [
       "tiny",
