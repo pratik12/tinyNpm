@@ -1,0 +1,2 @@
+# tinyNpm
+First NPM package
